@@ -26,12 +26,12 @@ body {
     margin-top: 20px;
 }
 
-.navbar {
+.siteHead {
     overflow: hidden;
     background-color: #416c4d9d; 
 }
 
-.navbar a {
+.siteHead a {
     float: left; 
     display: block;
     color: white;
@@ -40,7 +40,7 @@ body {
     text-decoration: none;
 }
 
-.navbar a:hover {
+.siteHead a:hover {
     background-color: #ddd;
     color: black;
 }
