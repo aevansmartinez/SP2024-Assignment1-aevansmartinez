@@ -1,0 +1,30 @@
+body {
+    background-color: #c16a38; 
+    color: #ffffff; 
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    text-align: center;
+}
+
+.content {
+    margin-top: 50px;
+}
+.actorList {
+    /* list-style-type: none;
+    text-align: center; */
+}
+
+#CoverArt {
+    border-radius: 25%; 
+    margin-bottom: 20px;
+
+}
+
+#Trailer {
+    margin-top: 20px;
+}
+
+
+
